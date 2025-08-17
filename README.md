@@ -29,8 +29,10 @@ npm start
 
 ## Usage
 - Admin login:  
-  Email: `admin@me.com`  
+  Email: `admin@me.com`,`e@e.com for arjun`,`employee2@example.com for others till 5`
+   
   Password: `123`
+  
 - Employees: Use emails and passwords as defined in `LocalStorage.jsx`.
 
 ## How It Works
